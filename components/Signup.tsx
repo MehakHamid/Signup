@@ -20,7 +20,7 @@ const SignupForm = () => {
     <div className="h-screen bg-gray-100 flex items-center justify-center px-4">
       <div className="bg-white rounded-lg shadow-lg p-8 w-full max-w-md">
         <h2 className="text-2xl font-bold text-gray-800 text-center mb-6">
-          Student Portal Signup
+          Student Portal Signup 
         </h2>
 
         <form onSubmit={handleSubmit} className="space-y-4">
